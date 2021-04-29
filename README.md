@@ -4,10 +4,12 @@
 Wine is a good beverage which is made from the fermented grapes. A glass of good wine gives good health. Spain is the major producer of wine. But there was drastic drop in the sales of wine in 2003 in Spain. So, to increase the exports of wine the data mining solutions are provided, and these solutions helps Spain to improve their quality of wine and helps them to find major sales of whether it is red or the white wine. The main motive of this project is to find the best wine based on the chemical components of the wine. Sales can be increased by improving the Quality of wine. The can checked using the Linear Regression. 
 The major components that are used in the wine are chlorides and the sulfuric acids and alcohol content in the wine. White wine contains high number of chlorides. I have used the different modeling techniques to find the best quality of wine in both the red and the white wine using the Logistic regression, J48 tree, Naïve Bayes. But out of the three algorithms or the modeling techniques Logistic Regression provides best results because 98% of the instances are correctly classified.  I have used the linear regression techniques to calculate the correlation coefficient and the quality of the wine depending on the maximum content of the alcohol and the chlorides in both red and the white wine. The quality of the wine is calculated on the scale of 1 to 10. When the wine measured above 6 it is known as the good wine.
 Visual Analytics gives better understanding. So, I have used the Tableau to show the quality of the wine based on the alcohol content in the wine. Red wine has more quality as compared to the white wine. In every chemical component the red wine shows best and as well as in the sales the red wine as more sales. So, this helps the Spain to improve their productivity and the sales as per the niche market standards in both the red and the white wine productivity.
+
 **BUSINESS UNDERSTANDING:**
 A sip of wine gives good flavor to food and is enjoyed widely all over the world in all the happy movements. Spain is one of the top ten countries who produce their majority of the income through the production of wine. Spain is more popular to produce white wine. The Exports of Vinho Verde wine which produces both the white and the red wine have decreased to 3.17% in the year 2005 but the end of the year 2007 the exports were increased to 36%. During the fermentation of wine in Vinho Verde wine has faced many problems due to the impact on the quality of wine which in turn reduced the productivity. 
 This analysis is done for predicting the preferences of the human wine taste. This can be done through the analytical tests using a large data set. We need to focus on the ingredients that are used in the wine to find the concentration of the wine. Depending on the concentration and the quality of the wine the best wine is preferred. Depending on the niche market we can predict which wine as the more sales whether the red wine or the white wine.
 Depending on the different chemical constituents like the alcohol constituents, nitric acid we can find the best quality of wine among the best cultivators of wine in Italy.
+
 **DATA PREPARATION:**
 Source of data: http://www.sciencedirect.com/science/article/pii/S0167923609001377
 http://archive.ics.uci.edu/ml/datasets/Wine+Quality
@@ -55,7 +57,7 @@ All the columns which are in the CSV file are very useful. So, it is not require
 
 Total numbers of attributes are 12 and below is the screen shot for the attributes that are in the given data. Using the below attributes, we can even find the rank of the attributes depending on the type of wine whether it is the red or the white wine.  
 
- [image](https://user-images.githubusercontent.com/83375975/116593793-b6eb1d80-a8de-11eb-9eea-c15cf27e163e.png)
+![image](https://user-images.githubusercontent.com/83375975/116593793-b6eb1d80-a8de-11eb-9eea-c15cf27e163e.png)
 
 
 **Info Gain for the attributes**
