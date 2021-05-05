@@ -2,7 +2,8 @@
 
 **EXCUTIVE SUMMARY:**
 Wine is a good beverage which is made from the fermented grapes. A glass of good wine gives good health. Spain is the major producer of wine. But there was drastic drop in the sales of wine in 2003 in Spain. So, to increase the exports of wine the data mining solutions are provided, and these solutions helps Spain to improve their quality of wine and helps them to find major sales of whether it is red or the white wine. The main motive of this project is to find the best wine based on the chemical components of the wine. Sales can be increased by improving the Quality of wine. The can checked using the Linear Regression. 
-The major components that are used in the wine are chlorides and the sulfuric acids and alcohol content in the wine. White wine contains high number of chlorides. I have used the different modeling techniques to find the best quality of wine in both the red and the white wine using the Logistic regression, J48 tree, Naïve Bayes. But out of the three algorithms or the modeling techniques Logistic Regression provides best results because 98% of the instances are correctly classified.  I have used the linear regression techniques to calculate the correlation coefficient and the quality of the wine depending on the maximum content of the alcohol and the chlorides in both red and the white wine. The quality of the wine is calculated on the scale of 1 to 10. When the wine measured above 6 it is known as the good wine.
+The major components that are used in the wine are chlorides and the sulfuric acids and alcohol content in the wine. White wine contains high number of chlorides. I have used the different modeling techniques to find the best quality of wine in both the red and the white wine using the Logistic regression, J48 tree, Naïve Bayes. But out of the three algorithms or the modeling techniques Logistic Regression provides best results because 98% of the instances are correctly classified.  
+I have used the linear regression techniques to calculate the correlation coefficient and the quality of the wine depending on the maximum content of the alcohol and the chlorides in both red and the white wine. The quality of the wine is calculated on the scale of 1 to 10. When the wine measured above 6 it is known as the good wine.
 Visual Analytics gives better understanding. So, I have used the Tableau to show the quality of the wine based on the alcohol content in the wine. Red wine has more quality as compared to the white wine. In every chemical component the red wine shows best and as well as in the sales the red wine as more sales. So, this helps the Spain to improve their productivity and the sales as per the niche market standards in both the red and the white wine productivity.
 
 **BUSINESS UNDERSTANDING:**
@@ -27,8 +28,6 @@ Sulphates
 Alcohol 
 R/W
 The quality of the wine is tested on the scale of 0 to 10. 
-
-Now days the interest in wine has increased as a result the manufacturing companies take important step to improve the wine taste by using the latest technologies to improve production of the industry and increase the selling.
 The fixed acids generally produced by the metabolism of carbohydrates, fats and proteins which is incomplete to produce wine. The maximum quantity of fixed acids in red wine is 15.9g per tartaric acid quantity in dm3 and maximum quantity of fixed acids in white wine is 14.2g per tartaric acid in dm3.
 The quantity of residual sugar content is more in white wine as compared to the red wine. Where the residual sugar content in red wine up to maximum limit is 15.5g/dm3 whereas the white wine has a maximum residual sugar content of 65.8g/dm3. 
 The PH content of white of Red wine is 4 in range of 0 to 14 and white wine has maximum PH of 3.8 in the scale of 0 to 14.
@@ -46,11 +45,6 @@ This Data was obtained from the paper that got published in “Modeling the wine
  	I could not find the information about the competitor’s brands and the selling price of both red and white wine which made the production of “Vinho Verde” lower as compared to other brands in Spain. 
  	The data did not give the information about the type of the grape used for white wine and red wine and the chemical constituents. “Alvarinho” is the type of white grape which produces the best wine out if this grapes and especially white wine is prepared. “Espadeiro” is the Black Grapes which produces the best red wine.
  	These kinds of Chemical compositions and the variety of grapes are not produced in the data to know why the sales of “Vinho Verde” as reduced.
-
-**Cleaning of the data:**
- 
-I am using CSV file to load in the WEKA tool. But the CSV file I used had many special characters like the double quotes and inverted commas. So, I have cleaned every data and placed in the form of separate columns so that WEKA can accept it easily. And again, I have even prepared a normal Excel sheet to demonstrate the chemical characters in the wine using the Tableau graphical analytics instead of algorithms.
-All the columns which are in the CSV file are very useful. So, it is not required to remove any kinds of columns. So, I have just used the data but just tried to remove duplicates.
 
 **MODELLING:**
 **Attributes:*
