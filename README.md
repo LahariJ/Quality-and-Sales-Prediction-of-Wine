@@ -132,7 +132,7 @@ All the models help the business needs but as per the results the Logistic Regre
 
 **DEPLOYMENT:**
 
- In any food products or the Wine, the quality and the components play a major role. So, these modeling techniques help the business to produce better quality of the wine or any food products. But presently I am working on the exports of Vinho Verde wine in Spain. So, these modeling techniques can be deployed by the Spain wine industry to export the best quality of Red wine or the White wine. As we see Spin is best exporter of Red wine. 
+ In any food products or the Wine, the quality and the components play a major role. So, these modeling techniques help the business to produce better quality of the wine or any food products. But presently I am working on the exports of Vinho Verde wine in Spain. So, these modeling techniques can be deployed by the Spain wine industry to export the best quality of Red wine or the White wine. 
 
 These modeling techniques are very useful for the organization because there are no drawbacks found in the modeling techniques and the accuracy and the correct classification of the data in this modeling technique is 99.6 % which means that it is a good modeling technique and can be recommended to the organization.
 
