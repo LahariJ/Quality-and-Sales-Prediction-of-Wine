@@ -109,11 +109,17 @@ I have used the Tableau visualization to give visual effects about the quality o
 **EVALUATION:**
 
 Total Number of Attributes	12	
+
 Total Number of Instances	6497	
+
 Logistic Regression	99.41% (6459 Instances correctly classified)	Time taken 0.4
+
 Naïve Bayes	97.56% (6339 In stances correctly classified)	Time taken 0.15
+
 J48 Tree	98.73% (6415 instances correctly classified	Time taken 0.03
+
 As per the above table analysis and the modeling techniques analysis Logistic Regression provided best results. But, slight little drawback is the time constraint 
+
 Apart from that the true positives and the confusion matrix show better results in logistic regression as compared to the J48 and Naïve Bayes.
 
 **Logistic Regression:**
